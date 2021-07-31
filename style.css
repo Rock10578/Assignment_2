@@ -1,0 +1,51 @@
+    body{
+        background-image: url("BG.jpg");
+        height: 1000px;
+        width: 800px;
+    }
+    h1{
+        color: red;
+        background-color: black;
+        width: 400px;
+        border: 10px double red;
+        border-radius: 15px;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 60%;
+        font-size: 2cm;
+    }
+    P{
+        color: white;
+        background-color: black;
+        width: 300px;
+        margin-left: 68%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        font-size: 1cm;
+        text-align: center;
+        padding: 5px;
+    }
+    .column1{
+        color: black;
+        background-color: aquamarine;
+        font-size: 6mm;
+    }
+    .row3{
+        background-color: rgb(187, 247, 75);
+    }
+    img{
+        height: 370px;
+        width: 315px;
+    }
+    #abc{
+        color: rgb(247, 58, 0);
+        background-image: url("DEV\ bg.jpg");
+        background-image: height 10px;
+        background-image: width 8px;
+        width: 500px;
+        margin-left: 1cm;
+        margin-top: 60px;
+        border: 20px double rgb(32, 175, 219);
+        border-bottom-style: groove;
+        margin-bottom: 10px;
+    }
